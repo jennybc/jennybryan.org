@@ -41,6 +41,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     link = "/talks"
     text = "talks"
 
-[[params.mainMenu]]
-    link = "/posts"
-    text = "writing"
+#[[params.mainMenu]]
+#    link = "/posts"
+#    text = "writing"
