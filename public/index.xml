@@ -48,7 +48,10 @@ Abbreviated CV Education University of California, Berkeley
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/code/</guid>
-      <description>Packages I work on &amp;hellip;</description>
+      <description>Most of my software work is done in the open, on GitHub. View my profile: github.com/jennybc
+I work on the team that maintains the packages in the tidyverse and r-lib organizations.
+Packages that I specifically maintain or contribute heavily to:
+ reprex readxl googlesheets4, which is replacing googlesheets googledrive usethis gh gapminder repurrrsive cellranger  </description>
     </item>
     
     <item>
