@@ -17,9 +17,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     footerText          = ""
 
 # Metadata
-    description         = "A new Hugo site."            # Max 160 characters show in search results
+    description         = "Jenny Bryan's personal website" # Max 160 characters show in search results
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+    primaryImage        = "/twitter-card.jpg"           # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
     link = "/about"
