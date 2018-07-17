@@ -32,7 +32,7 @@ University of British Columbia, Vancouver
   
 University of California, Berkeley, & California Office of AIDS  
 
-  * Various teaching and research assitantships, 1996 - 2001
+  * Various teaching and research assistantships, 1996 - 2001
 
 Boston Consulting Group, Boston, Massachusetts  
 
