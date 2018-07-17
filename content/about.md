@@ -25,7 +25,7 @@ Yale University
 
 University of British Columbia, Vancouver  
 
-  * (Founding) Academic Director, [Master of Data Science Program](https://masterdatascience.science.ubc.ca), 2016
+  * (Founding) Academic Director, [Master of Data Science Program](https://ubc-mds.github.io/descriptions/), 2016
   * Adjunct professor, appointment in process as of July 2018
   * Associate Professor of Statistics (with tenure), July 2009 - June 2018
   * Assistant Professor of Statistics, July 2001 - June 2009
