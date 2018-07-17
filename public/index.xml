@@ -36,9 +36,10 @@ if (this === that): try write_new_poem() except not_a_poet as e: return </descri
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way.
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
-I also have a simple responsive gallery built with CSS grid. It&amp;rsquo;ll look great on any screen, and all you have to do is provide a folder of images.</description>
+      <description>Hello, I&amp;rsquo;m Jenny Bryan and I am part of Hadley Wickham&amp;rsquo;s team at RStudio. We develop open source R packages to make data science faster, easier and more fun. If that sounds intriguing, tidyverse.org is a great place to learn more.
+Abbreviated CV Education University of California, Berkeley
+ Ph.D. and M.A. in Biostatistics under Mark van der Laan in 2001  Yale University
+ B.A. in Economics and German in 1992  Employment RStudio</description>
     </item>
     
     <item>
