@@ -1,7 +1,7 @@
 baseurl                 = "https://jennybryan.org/"     # Your domain name. Must end with "/"
-languageCode            = "en-us"
-title                   = "Call me Sam"
-theme = "hugo-theme-sam"
+languageCode            = "en-ca"
+title                   = "Jenny Bryan"
+theme                   = "hugo-theme-sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
 # googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
