@@ -21,10 +21,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
-# [[params.mainMenu]]
-#     link = "/gallery"
-#     text = "gallery"
-
 [[params.mainMenu]]
     link = "/about"
     text = "jenny bryan"
@@ -44,3 +40,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #[[params.mainMenu]]
 #    link = "/posts"
 #    text = "writing"
+
+# [[params.mainMenu]]
+#     link = "/gallery"
+#     text = "gallery"
