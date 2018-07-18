@@ -5,6 +5,12 @@ date: 2018-02-13T13:42:49-05:00
 
 Hello, I'm Jenny Bryan and I am part of [Hadley Wickham's](http://hadley.nz) team at [RStudio](https://www.rstudio.com). We develop open source [R](http://www.r-project.org) packages to make data science faster, easier and more fun. If that sounds intriguing, [tidyverse.org](https://www.tidyverse.org) is a great place to learn more.
 
+Contact information:
+
+  * Twitter: [jennybryan](https://twitter.com/jennyBryan/)
+  * GitHub: [jennybc](https://github.com/jennybc)
+  * Email: jenny@rstudio.com
+
 ## Abbreviated CV
 
 ### Education
