@@ -3,14 +3,13 @@ title: "About"
 date: 2018-02-13T13:42:49-05:00
 ---
 
-Hello, I'm Jenny Bryan and I am part of [Hadley Wickham's](http://hadley.nz) team at [RStudio](https://www.rstudio.com). We develop open source [R](http://www.r-project.org) packages to make data science faster, easier and more fun. If that sounds intriguing, [tidyverse.org](https://www.tidyverse.org) is a great place to learn more.
+Hello, I'm Jenny Bryan and I am part of [Hadley Wickham's](http://hadley.nz) team at [RStudio](https://www.rstudio.com). We develop open source [<i class="fab fa-r-project"></i>](http://www.r-project.org) packages to make data science faster, easier and more fun. If that sounds intriguing, [tidyverse.org](https://www.tidyverse.org) is a great place to learn more.
 
-Find me online:
+<i class="fab fa-twitter"></i> [@jennybryan](//twitter.com/jennybryan)  
+<i class="fab fa-github"></i> [@jennybc](//github.com/jennybc)  
+<i class="fas fa-envelope"></i> <jenny@rstudio.com>  
+[Impactstory](https://profiles.impactstory.org/u/0000-0002-6983-2759) | [Google Scholar](https://scholar.google.ca/citations?user=nphhZysAAAAJ&hl=en)  
 
-  * Twitter: [jennybryan](https://twitter.com/jennyBryan/)
-  * GitHub: [jennybc](https://github.com/jennybc)
-  * Email: <jenny@rstudio.com>
-  * Profiles: [Impactstory](https://profiles.impactstory.org/u/0000-0002-6983-2759) | [Google Scholar](https://scholar.google.ca/citations?user=nphhZysAAAAJ&hl=en)
 
 ## Abbreviated CV
 

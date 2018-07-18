@@ -36,9 +36,12 @@ if (this === that): try write_new_poem() except not_a_poet as e: return </descri
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello, I&amp;rsquo;m Jenny Bryan and I am part of Hadley Wickham&amp;rsquo;s team at RStudio. We develop open source R packages to make data science faster, easier and more fun. If that sounds intriguing, tidyverse.org is a great place to learn more.
-Find me online:
- Twitter: jennybryan GitHub: jennybc Email: jenny@rstudio.com Profiles: Impactstory | Google Scholar  Abbreviated CV Education University of California, Berkeley
+      <description>Hello, I&amp;rsquo;m Jenny Bryan and I am part of Hadley Wickham&amp;rsquo;s team at RStudio. We develop open source  packages to make data science faster, easier and more fun. If that sounds intriguing, tidyverse.org is a great place to learn more.
+ @jennybryan
+ @jennybc
+ jenny@rstudio.com
+Impactstory | Google Scholar
+Abbreviated CV Education University of California, Berkeley
  Ph.D. and M.A. in Biostatistics under Mark van der Laan in 2001  Yale University</description>
     </item>
     
