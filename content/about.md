@@ -9,7 +9,7 @@ Contact information:
 
   * Twitter: [jennybryan](https://twitter.com/jennyBryan/)
   * GitHub: [jennybc](https://github.com/jennybc)
-  * Email: jenny@rstudio.com
+  * Email: <jenny@rstudio.com>
 
 ## Abbreviated CV
 
