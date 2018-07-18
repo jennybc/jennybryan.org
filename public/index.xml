@@ -69,19 +69,19 @@ Source is here: jennybc/jennybryan.org</description>
     
     <item>
       <title>Talks</title>
-      <link>/talks/</link>
+      <link>/talk/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>/talks/</guid>
+      <guid>/talk/</guid>
       <description>Talks, past and future &amp;hellip;</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>/teach/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>/teach/</guid>
       <description>I teach a lot.
 In-person workshops: upcoming  What They Forgot to Teach You About R: rstudio::conf 2019 Training Days, 2019 January 15 - 16 in Austin, TX What They Forgot to Teach You About R: Westin Seattle, 2018 October 4 - 5 in Seattle, WA tentative How to repeat yourself with purrr: 2018 September 3, 14:00 - 18:00 at LatinR 2018 in Buenos Aires, Argentina   Tutorials, webinars, and the like  Row-oriented workflows in R with the tidyverse: RStudio webinar given on 2018 April 11.</description>
     </item>

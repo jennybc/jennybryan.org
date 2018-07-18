@@ -40,7 +40,7 @@ University of California, Berkeley, & California Office of AIDS
 
   * Various teaching and research assistantships, 1996 - 2001
 
-Boston Consulting Group, Boston, Massachusetts  
+Boston Consulting Group, Boston office  
 
   * Associate 1992-1994
 
