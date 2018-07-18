@@ -4,7 +4,7 @@ title                   = "Jenny Bryan"
 theme                   = "hugo-theme-sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
-# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+googleAnalytics         = "UA-122469780-1"              # Tracking code, eg. "UA-111111111-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
