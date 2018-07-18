@@ -39,8 +39,10 @@ if (this === that): try write_new_poem() except not_a_poet as e: return </descri
       <description>Hello, I&amp;rsquo;m Jenny Bryan and I am part of Hadley Wickham&amp;rsquo;s team at RStudio. We develop open source  packages to make data science faster, easier and more fun. If that sounds intriguing, tidyverse.org is a great place to learn more.
  @jennybryan
  @jennybc
+ jennybryan.org
  jenny@rstudio.com
-Impactstory | Google Scholar
+ Impactstory
+ Google Scholar
 Abbreviated CV Education University of California, Berkeley
  Ph.D. and M.A. in Biostatistics under Mark van der Laan in 2001  Yale University</description>
     </item>
@@ -73,7 +75,7 @@ Source is here: jennybc/jennybryan.org</description>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>/talk/</guid>
-      <description>Talks, past and future &amp;hellip;</description>
+      <description>Upcoming talks  Teaching R (and more) in the Era of Data Science, LatinR Keynote, 2018 September 04, Buenos Aires, Argentina Version Control: The Gain You Get for Your Pain, Invited talk in session 212 An Emerging Ecosystem for Data Science/Statistics Education, Joint Statistical Meetings, 2018 July 30, Vancouver, BC Workflow practices: tips for being more effective (and happier!) in your data analysis with R, ACTStat Keynote, 2018 July 29, Vancouver, BC  Past talks  Code smells and feels, useR!</description>
     </item>
     
     <item>

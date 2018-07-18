@@ -7,8 +7,10 @@ Hello, I'm Jenny Bryan and I am part of [Hadley Wickham's](http://hadley.nz) tea
 
 <i class="fab fa-twitter"></i> [@jennybryan](//twitter.com/jennybryan)  
 <i class="fab fa-github"></i> [@jennybc](//github.com/jennybc)  
-<i class="fas fa-envelope"></i> <jenny@rstudio.com>  
-[Impactstory](https://profiles.impactstory.org/u/0000-0002-6983-2759) | [Google Scholar](https://scholar.google.ca/citations?user=nphhZysAAAAJ&hl=en)  
+<i class="fas fa-link"></i> [jennybryan.org](https://jennybryan.org)  
+<i class="fas fa-paper-plane"></i> <jenny@rstudio.com>  
+<i class="fas fa-bullseye"></i> [Impactstory](https://profiles.impactstory.org/u/0000-0002-6983-2759)  
+<i class="fas fa-graduation-cap"></i> [Google Scholar](https://scholar.google.ca/citations?user=nphhZysAAAAJ&hl=en)  
 
 
 ## Abbreviated CV
