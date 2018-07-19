@@ -8,7 +8,7 @@ I teach a lot.
 ## In-person workshops: upcoming
 
   * What They Forgot to Teach You About R: [rstudio::conf 2019](https://www.rstudio.com/conference/) Training Days, 2019 January 15 - 16 in Austin, TX
-  * What They Forgot to Teach You About R: [Westin Seattle](http://www.westinseattle.com/), 2018 October 4 - 5 in Seattle, WA *tentative*
+  * What They Forgot to Teach You About R: [Westin Seattle](http://www.westinseattle.com/), 2018 October 4 - 5 in Seattle, WA *registration opens first week of August*
   * How to repeat yourself with purrr: 2018 September 3, 14:00 - 18:00 at [LatinR 2018](http://latin-r.com) in Buenos Aires, Argentina
   
 ## Tutorials, webinars, and the like
