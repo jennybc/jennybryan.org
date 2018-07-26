@@ -55,3 +55,7 @@ Boston Consulting Group, Boston office
 [rOpenSci](https://ropensci.org)
 
   * Leadership committee, 2014 - present
+  
+[BioConductor](https://www.bioconductor.org/)
+
+  * [Scientific Advisory Board](https://www.bioconductor.org/about/advisory-board/), 2018 - present
