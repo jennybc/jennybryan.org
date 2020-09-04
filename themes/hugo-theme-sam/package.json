@@ -17,7 +17,7 @@
   "devDependencies": {
     "autoprefixer": "^8.5.1",
     "chokidar-cli": "^1.2.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "postcss": "^6.0.22",
     "postcss-cli": "^5.0.0",
     "pug-cli": "^1.0.0-alpha6"
